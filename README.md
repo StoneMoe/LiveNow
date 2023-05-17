@@ -1,8 +1,6 @@
 # LiveNow
 
-Your own serverless livestream platform.
-
-Deps:
+Create your very own serverless livestream platform within seconds and on a limited budget using Cloudflare services.
 
 - Cloudflare Stream
 - Cloudflare Turnstile
@@ -15,7 +13,7 @@ Deps:
 
 ```bash
 npm i  # toolchain
-npm run i  # project deps
+npm run i  # install dependency
 ```
 
 ### Create API config from template
