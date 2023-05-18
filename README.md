@@ -1,4 +1,4 @@
-# LiveNow
+![logo](https://socialify.git.ci/StoneMoe/LiveNow/image?font=KoHo&logo=https%3A%2F%2Ffreesvg.org%2Fimg%2F1313942991.png&name=1&pattern=Charlie%20Brown&theme=Dark)
 
 Create your very own serverless livestream platform within seconds and on a limited budget using Cloudflare services.
 
